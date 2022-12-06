@@ -1,3 +1,5 @@
 .vs
 Poco_Test/Debug
 *.exp
+Poco_Test/x64
+Poco_Test.*
