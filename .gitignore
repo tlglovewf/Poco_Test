@@ -3,3 +3,8 @@ Poco_Test/Debug
 *.exp
 Poco_Test/x64
 Poco_Test.*
+*.recipe
+*.ilk
+PluginA/x64
+PluginB/x64
+Poco/bin/Plugin*
